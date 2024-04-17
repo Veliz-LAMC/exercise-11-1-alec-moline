@@ -126,6 +126,17 @@ article img {
 	border: 1px solid black;
 }
 
+figure {
+	float: right;
+}
+
+figcaption {
+	display: block;
+	font-weight: bold;
+	border-bottom: 1px solid black;
+	margin-left: 1em;
+}
+
 /* the styles for the aside */
 aside {
 	width: 215px;
